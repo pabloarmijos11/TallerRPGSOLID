@@ -3,7 +3,6 @@ package Modelo;
 import Modelo.Estados.Problema1_IEstadoAlterado;
 import Modelo.Habilidades.Problema1_IHabilidadEspecial;
 import Modelo.Objetos.Problema1_Inventario;
-import Modelo.Problema1_Objeto;
 import java.util.ArrayList;
 
 public abstract class Problema1_Personaje {
